@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Classes/Data classes/build/
+/Classes/Sealed classes/build/
+/Classes/Smart casts/build/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world_/build/
+/Introduction/Lambdas/build/
+/Introduction/Named arguments/build/
+/Introduction/Nothing type/build/
+/Introduction/Nullable types/build/
+/Introduction/String templates/build/
+/Introduction/Triple-quoted strings/build/
+/util/build/
